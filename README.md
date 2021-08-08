@@ -1,7 +1,14 @@
 ### Hi there 👋
+Software development can improve the client’s experiences, bring more feature-rich and innovative products to market, and make setups more safe, productive, and efficient.
+
+Flutter Mobile Developer with a good level of experience. I believe that every problem has a solution and software development has come to solve these problems with technical solutions.
+I have a great passion for app quality and always strive to provide an app with excellent performance.
+The success of the application is very important to me because it will be one of the lines of my book of successes.
 
 - 🔭 I’m currently working on mobile app development using Flutter framework
-- 
+- 📘 I’m currently learning web development
+- 💬 Ask me about Flutter
+- 📱 How to reach me: +972594305019
 <!--
 **MohamadOsama17/MohamadOsama17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
