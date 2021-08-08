@@ -1,5 +1,4 @@
 ### Hi there 👋
-Software development can improve the client’s experiences, bring more feature-rich and innovative products to market, and make setups more safe, productive, and efficient.
 
 Flutter Mobile Developer with a good level of experience. I believe that every problem has a solution and software development has come to solve these problems with technical solutions.
 I have a great passion for app quality and always strive to provide an app with excellent performance.
