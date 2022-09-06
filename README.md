@@ -5,7 +5,7 @@ I have a great passion for app quality and always strive to provide an app with 
 The success of the application is very important to me because it will be one of the lines of my book of successes.
 
 - 🔭 I’m currently working on mobile app development using Flutter framework
-- 📘 I’m currently learning web development
+- 📘 I’m currently learning web development (MERN stack)
 - 💬 Ask me about Flutter
 - 📱 How to reach me: +972594305019
 <!--
